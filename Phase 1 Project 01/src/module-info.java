@@ -1,0 +1,2 @@
+module info.project.java {
+}
